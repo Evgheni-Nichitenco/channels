@@ -1,4 +1,4 @@
-# YouTube (mostly, but not only) channels for frontend developers
+# Каналы YouTube (в основном, но не только) для фронтенд-разработчиков
 
 A collection of useful YouTube channels and other videos sources for javascript developers and web designers.
 

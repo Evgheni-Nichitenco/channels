@@ -1,6 +1,6 @@
 # Каналы YouTube (в основном, но не только) для фронтенд-разработчиков
 
-A collection of useful YouTube channels and other videos sources for javascript developers and web designers.
+Коллекция полезных каналов YouTube и других источников видео для разработчиков javascript и веб-дизайнеров.
 
 Feel free to make a pull request with missing channel.
 

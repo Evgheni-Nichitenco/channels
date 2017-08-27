@@ -181,25 +181,6 @@ Feel free to make a pull request with missing channel.
 - [React Kyiv](https://www.youtube.com/channel/UCsujMNYN0c8ehIPj4oA8_zg)
 
 
-
-
-
-## Polish language
-
-- [Pasja informatyki](https://www.youtube.com/user/MiroslawZelent) — HTML, CSS, JavaScript
-- [Adrian Bienias](https://www.youtube.com/user/ADRIANBIENIASpl) — CSS, JavaScript, tools
-- [Od zera do WebDeva](https://www.youtube.com/channel/UCrSxel4Mheo6XA8IPMA-3ZQ) — Angular2
-
-### Conferences and meetups recordings
-
-- [WarsawJS](https://www.youtube.com/channel/UCzYf3wdKSKnR5lvkRVUyCYg)
-
-## Dutch language
-
-### Conferences and meetups recordings
-
-- [Fronteers](https://fronteers.nl/videos) — HTML, CSS, JavaScript
-
 ## Live coding streams
 
 - [Livecoding.tv](https://www.livecoding.tv)
